@@ -1,0 +1,102 @@
+body{
+    background-color: #202020;
+}
+
+.bruh{
+    position: absolute;
+    z-index: 1;
+    left: 184px;
+    top: 159px;
+}
+
+.dpsbarbaraontop{
+    z-index: -1000000;
+    border-radius: 180px;
+    background-color: #A11D23;
+    position: absolute;
+    height: 180px;
+    width: 180px;
+    left: 367.57px;
+    top: 88.71px;
+}
+
+.karta{
+    position: absolute;
+    z-index: 0;
+    width: 296px;
+    height: 173px;
+    border: 1px solid grey;
+    filter: drop-shadow(0px 4px 4px );
+    backdrop-filter: blur(5px);
+    border-radius: 20px;
+    left: 184px;
+    top: 159px;
+}
+
+.masturbatetocartoon{
+    position: absolute;
+    left: 197px;
+    top: 166px;
+}
+
+p{
+    font-family: 'Montserrat';
+    color: white;
+}
+
+#sedesatdevet {
+    margin: 0px;
+    position: absolute;
+    font-size: 12px;
+    top: 180.71px;
+    left: 247.57px;
+}
+.kontakt {
+    margin: 0px;
+    position: absolute;
+    left: 451.79px;
+    top: 177.41px;
+}
+#sedmdesat {
+    margin: 0px;
+    position: absolute;
+    font-size: 9px;
+    top: 251.71px;
+    left: 198.57px;
+}
+#yoiismid {
+    margin: 0px;
+    position: absolute;
+    left: 197.57px;
+    top: 262.71px;
+}
+#hutaisOP {
+    margin: 0px;
+    position: absolute;
+    font-size: 9px;
+    left: 197.57px;
+    top: 293.71px;
+}
+#lyneybetterthanyoi{
+    margin: 0px;
+    position: absolute;
+    font-size: 11px;
+    left: 197.57px;
+    top: 304.71px;
+} 
+.gamingontop {
+    z-index: -1000000;
+    border-radius: 114px;
+    background-color: #A11D23;
+    position: absolute;
+    height: 114px;
+    width: 114px;
+    left: 119.57px;
+    top: 242.71px;
+}
+.bumbumbakudan {
+    margin: 0px;
+    position: absolute;
+    left: 184.57px;
+    top: 158.71px;
+}
